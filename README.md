@@ -29,11 +29,11 @@ The crystal structure 2HNQ contains only the catalytic domain, deposited residue
 
 ## Results
 ### Figure 1 – Global structure organization
-(Insert image)
+(fig1.png)
 The overall fold shows a compact catalytic domain (blue), regulatory domain (gray), and C terminus ER anchor domain (yellow).
 ### Figure 2 – Active site architecture
-(Insert image)
+(fig2.png)
 Cys215 (red) is positioned within a well-defined catalytic pocket, coordinated by surrounding catalytic loop (light green) and WPD loop (brown) that enable substrate binding and phosphatase activity. The target phosphate group is represented as a sphere model (gray).
 ### Figure 3 – Allosteric sites
-(Insert image)
+(fig3.png)
 Allosteric residues are distributed away from the catalytic pocket, primarily on surface-accessible regions of the protein.
